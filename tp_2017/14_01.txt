@@ -1,5 +1,5 @@
-Strecke	Wdh	Art		Zone
-300 	1	bel		Ein
+Dst		Wdh	Art		Zone
+300		1	bel		Ein
 50		1	Br		6
 50		1	Kr		6
 50		1	Rü		6
