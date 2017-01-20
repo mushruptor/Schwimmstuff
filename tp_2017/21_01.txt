@@ -5,7 +5,7 @@ Dst     Wdh Art             Zone    Ab              Ges
 200     1   Fl              Ein                     1300
 50      1   Fl Kr           6                       1350
 50      1   Fl Rü           6                       1400
-50      1   Fl De           6                       1450
+50      1   Fl De 25/25     6/1                     1450
 50      1   Fl bel          1                       1500
 100     4   Fl De-B Kr/Rü   3       2'00"           1900
 50      1   bel             1                       1950
