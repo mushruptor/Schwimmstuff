@@ -1,17 +1,17 @@
-Dst     Wdh Art             Zone    Ab		Bem
-400		1	bel				Ein
-50		2	De-B T 25/25	4/1
-400		1	Lg 100			3
-100		1	bel				1
-100		4	Kr				5-6		3'00"
-100		1	bel				1
-200		2	Kr A/B/S/G	3
-			Wenden Br/Kr
-10		6	Starts Rü/Br/Kr	5
-50		1	Rü				4
-50		1	Br				4
-200		1	Rü/Kr 50		3				Anzug
-200		1-2	Kr A/S/G 50/100	3				Anzug
-50		2	Kr				6
-50		1	Br				6
-200		1	bel				Aus
+Dst     Wdh Art             Zone    Ab      Bem
+400     1   bel             Ein
+50      2   De-B T 25/25    4/1
+400     1   Lg 100          3
+100     1   bel             1
+100     4   Kr              5-6     3'00"
+100     1   bel             1
+200     2   Kr A/B/S/G  3
+            Wenden Br/Kr
+10      6   Starts Rü/Br/Kr 5
+50      1   Rü              4
+50      1   Br              4
+200     1   Rü/Kr 50        3               Anzug
+200     1-2 Kr A/S/G 50/100 3               Anzug
+50      2   Kr              6
+50      1   Br              6
+200     1   bel             Aus
