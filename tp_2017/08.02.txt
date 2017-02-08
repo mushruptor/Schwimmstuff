@@ -1,0 +1,12 @@
+Dst     Wdh Art             Zone    Ab      Bem
+300     1   bel             Ein
+50      2   De-B T 15/35    6/1
+100     3   Kr              2/3/4   2'00"   Steigerung
+50      1   bel             1
+50      6   Kr              6
+50      1   bel             1
+100     8/6 De-B/Kr         3               Flossen
+100     8/6 Kr-A/Rü         3               Flossen, Kr-A: 4/3/2/1 Armzug auf jeder Seite
+50      1   Rü              6               Flossen
+50      1   Kr              6               Flossen (unter 0:30!)           
+100     1   bel             Aus
