@@ -4,12 +4,22 @@ Trainingsplan
 Abgang:  1:00  = Start
         [0:10] = Pause 
 
+Bz (100m):  1   -   locker
+            2   -   +23s
+            3   -   +15s
+            4   -   +10s
+            5   -   +6s
+            6   -   Max
+            7   -   25m Sprint Max
+            8   -   15m Sprint Max
 
 Dist        Wdh         Diszpl          Art             Bz          Ab              Bem
 
-50          40 (20)     Kr                              3/6         1:00            jeder 6. (4.) schnell
+50          40 (20)     Kr                              3/5         1:00            jeder 6. (4.) schnell
 
-125         4           Lf                              3/6         [0:20]          3. und 5. 25m schnell
+100         10          Kr                              3/5         2:00            5./10. schnell
+
+125         4           Lf                              3/5         [0:20]          3. und 5. 25m schnell
 
 50          8           De/Kr           50/50           3           1:00
 
@@ -25,3 +35,4 @@ Dist        Wdh         Diszpl          Art             Bz          Ab          
 100         4           Kr (L/Lf)                       3           1:45
 50          4           Kr (Lf)                         3           1:15
 25          4           Kr (Lf)                         4           0:45
+
